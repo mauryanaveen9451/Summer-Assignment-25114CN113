@@ -7,6 +7,7 @@ int main(){
         ch='A';
         for(k=1;k<=(num-i)/2;k++){
            printf(" ");
+            
         }
 
         
