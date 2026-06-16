@@ -3,6 +3,7 @@ int palindrome();
 int main(){
     palindrome();
     return 0;
+    
 }
 int palindrome(){
     int num,rev=0,temp;
