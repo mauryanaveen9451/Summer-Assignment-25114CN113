@@ -4,6 +4,7 @@ int main(){
     int arr1[50],arr2[50],num1,num2,i;
     printf("enter number of elements");
     scanf("%d",&num1);
+
     printf("enter elements");
     for(i=0;i<num1;i++){
         scanf("%d",&arr1[i]);
