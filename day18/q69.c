@@ -23,6 +23,7 @@ int main(){
                 arr[j+1]=temp;
 
             }
+            
         }
     }
     for(i=0;i<num;i++){
