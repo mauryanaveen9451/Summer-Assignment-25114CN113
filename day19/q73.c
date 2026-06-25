@@ -6,6 +6,7 @@ int main(){
     int arr1[num][num],arr2[num][num],arr3[num][num];
 
 printf("enter elements of 1st array");
+    
 
     for(i=0;i<num;i++){
         for(j=0;j<num;j++){
