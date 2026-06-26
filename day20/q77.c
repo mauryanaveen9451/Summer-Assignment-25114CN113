@@ -4,6 +4,7 @@ int main(){
 
     printf("enter number of rows and column of 1st matrix");
     scanf("%d %d",&m,&n);
+    
 
     int arr1[m][n];
     printf("enter elements of 1st array");
